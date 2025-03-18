@@ -18,3 +18,5 @@ Este es un proyecto en JavaScript para organizar un sorteo de Amigo Secreto.
 - Genera los emparejamientos aleatorios.
 
 - Visualiza los resultados.
+
+Puedes probar el proyecto desde el siguiente enlace: https://crt0075.github.io/amigo_secreto/
